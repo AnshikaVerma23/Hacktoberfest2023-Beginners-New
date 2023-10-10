@@ -125,6 +125,12 @@
 - Bio: Web Developer, Cricketer
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
+- 
+- #### Name: [Anshika Verma](https://github.com/AnshikaVerma23)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Web Developer
+- GitHub: [AnshikaVerma23](https://github.com/AnshikaVerma23)
 
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
